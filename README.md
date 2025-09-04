@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ReactJS<br><br>📄 Here is my [CV](https://drive.google.com/file/d/1qBEgDcVB6zOUHJU8462UJZcg9mriK0F9/view?usp=sharing)<br><br>⚡ Fun fact I dream of learning everything about computer science xD
+🌱 I’m currently learning ReactJS<br><br>📄 Here is my [CV](https://drive.google.com/file/d/15BEAFU2-4DTDnabCo8GsRA0wABsAy7br/view?usp=drive_link)<br><br>⚡ Fun fact I dream of learning everything about computer science xD
 
 
 ## 🌐 Socials:
